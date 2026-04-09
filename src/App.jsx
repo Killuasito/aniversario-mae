@@ -772,16 +772,16 @@ function FinalGift() {
                       
                     </p>
                   </div>
-                  {/* Descomente e adicione o link do vídeo:
+                  
                   <iframe
                     className="absolute inset-0 w-full h-full rounded"
-                    src="SEU_LINK_AQUI"
+                    src="https://www.youtube.com/embed/C1PnAka2kr8"
                     title="Mensagem Especial"
                     frameBorder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                     allowFullScreen
                   />
-                  */}
+                  
                 </div>
                 <p
                   className="text-center mt-6 text-lg font-serif italic flex items-center justify-center gap-2"
