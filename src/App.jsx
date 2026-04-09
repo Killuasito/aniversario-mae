@@ -170,7 +170,7 @@ const timeline = [
   { year: "1990", label: "Nova Casa", desc: "Construção da nova casa e brincadeiras na rua." },
   { year: "1994", label: "15 Anos Especial", desc: "Valsa com o vô e corrente de ouro do padrinho." },
   { year: "1995", label: "Novos Caminhos", desc: "Ensino médio, novas amizades, primeira turma como professora e a madrinha." },
-  { year: "1996", label: "Amor Chegou", desc: "Conheceu o pai na Sabesp, outros loucos, e começou a namorar." },
+  { year: "1996", label: "Amor Chegou", desc: "Conheceu o pai, vulgo Sabesp, outros loucos, e começou a namorar." },
   { year: "1997", label: "Formatura", desc: "Concluiu o Ensino Médio com sucesso." },
   { year: "1998", label: "Noivado", desc: "Ficou noiva, entrou na Danone e conheceu novas amizades." },
   { year: "1999", label: "Preparativos", desc: "Planejaram cada detalhe do casamento." },
